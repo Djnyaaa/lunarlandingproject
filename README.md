@@ -18,7 +18,7 @@ El diseño esta dividido en 6 partes que ire explicando acontinuación:
 
 * Estado: Ocupará el 20% de ancho y 20% de alto de la pantalla. Tendrá una posición Fixed, un fondo Blanco y estará situado en la parte superior derecha. Tendrá una lista que no tendrá estilo, tendra un padding de 15 pixeles.
 
-* Nave: La imágen tendra un tamaño fijo de 200 pixeles  de ancho y 190 pixeles de alto. Una posición Absolute además de estar situada en la parte central y un margen negativo hacia la derecha para dejar centrara la imagen. La imágen utilizada sera la que esta ubidaca en la carpeta IMG.
+* Nave: La imágen tendra un tamaño fijo de 200 pixeles  de ancho y 190 pixeles de alto. Una posición Absolute además de estar situada en la parte central y un margen negativo hacia la derecha para dejar centrara la imagen. La imágen utilizada sera "Nave.png" que esta ubidaca en la carpeta IMG.
 
 * Sonido: Al iniciar el juego tendrá una musica que se reproducira automaticamente y luego con javascript se tratará para que pueda ser silenciada.
 
@@ -36,6 +36,6 @@ El diseño tambien está dividido en 6 partes que ire explicando acontinuación:
 
 * Estado: Ocupará el 100% de ancho y 10% de alto de la pantalla. Tendrá una posición Fixed, un fondo Blanco y estará situado en la parte superior. Tendrá una lista que no tendrá estilo, tendra un padding de 15 pixeles y el tamaño de la fuente será 9 puntos.
 
-* Nave: La imágen tendra un tamaño fijo de 100 pixeles  de ancho y 90 pixeles de alto. Una posición Absolute además de estar situada en la parte central y un margen negativo hacia la derecha para dejar centrara la imagen, tendrá un espacio de 20% de alto de la nave hasta la parte superior para que no interfiera con el Estado. La imágen utilizada sera "Nave.jpg" que esta ubicada en la carpeta IMG.
+* Nave: La imágen tendra un tamaño fijo de 100 pixeles  de ancho y 90 pixeles de alto. Una posición Absolute además de estar situada en la parte central y un margen negativo hacia la derecha para dejar centrara la imagen, tendrá un espacio de 20% de alto de la nave hasta la parte superior para que no interfiera con el Estado. La imágen utilizada sera "Nave.png" que esta ubicada en la carpeta IMG.
 
 * Sonido: Al iniciar el juego tendrá una musica que se reproducira automaticamente y luego con javascript se tratará para que pueda ser silenciada.
